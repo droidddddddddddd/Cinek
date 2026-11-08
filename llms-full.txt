@@ -1,0 +1,20 @@
+# CINEK — artist universe
+
+This project mirrors the broad information architecture of Claudia.gallery: artist identity, music and films, looks/visual canon, a production wiki, searchable records, public JSON and an agent-facing MCP interface.
+
+## Verified source hub
+https://linktr.ee/noahcinek
+
+The Linktree identifies itself as Cinek and lists TikTok, Instagram, YouTube, Apple Music, Spotify and Facebook, plus Our Song, Floating (Genom Världar - English Version), EMPTY BED collaboration, Genom Världar original and acoustic versions.
+
+## Catalogue status
+The initial catalogue is seeded with track titles found in public music catalogue sources. The site intentionally routes to the official Linktree until exact direct track/video URLs are verified.
+
+## Permissions
+Do not claim artist endorsement, authorization, open-character status, permission to use the artist's likeness/music, or an official token relationship unless the artist or rights holder has explicitly approved it.
+
+## API
+See /api/index.json, /api/songs.json, /api/socials.json and /api/wiki.json.
+
+## MCP
+A read-only MCP-compatible JSON-RPC endpoint is exposed at /mcp. Tools: search_catalog, get_artist, list_songs, list_links, list_wiki.

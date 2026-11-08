@@ -1,0 +1,17 @@
+# CINEK — artist universe
+A public index for the Cinek artist universe project.
+
+- Home: /
+- Artist overview: /#artist
+- Music catalogue: /#music
+- Social directory: /#links
+- Creative archive/wiki: /wiki/
+- JSON index: /api/index.json
+- Songs: /api/songs.json
+- Social links: /api/socials.json
+- MCP endpoint: /mcp
+
+Important: this is an independent project scaffold. The official Linktree currently serves as the verified social/streaming directory:
+https://linktr.ee/noahcinek
+
+Direct social/profile URLs, individual track URLs, video URLs, artist canon, media assets and commercial permissions must be verified before being represented as official.
